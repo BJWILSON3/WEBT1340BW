@@ -21,8 +21,8 @@
 }
 .nav-bkg
 {
-	background : #EE0029;
-	background : rgba(238, 0, 41, 1);
+	background : #7f00ee;
+	background : rgb(123, 0, 238);
 }
 .footer-bkg
 {
@@ -59,8 +59,8 @@ h1
 	font-family : ATC Onyx;
 	font-size : 32px;
 	line-height : 22.05px;
-	color : #EE0029;
-	color : rgb(238, 0, 41);
+	color : #1400ee;
+	color : #1400ee;
 }
 .NormalCharacterStyle
 {
@@ -71,18 +71,7 @@ h1
 }
 body
 {
-	background : -moz-linear-gradient(50% 0% -90deg,rgba(255, 190, 0, 1) 0%,rgba(238, 0, 41, 1) 50.6%,rgba(0, 0, 0, 1) 100%);
-	background : -webkit-linear-gradient(-90deg, rgba(255, 190, 0, 1) 0%, rgba(238, 0, 41, 1) 50.6%, rgba(0, 0, 0, 1) 100%);
-	background : -webkit-gradient(linear,50% 0% ,50% 100% ,color-stop(0,rgba(255, 190, 0, 1) ),color-stop(0.506,rgba(238, 0, 41, 1) ),color-stop(1,rgba(0, 0, 0, 1) ));
-	background : -o-linear-gradient(-90deg, rgba(255, 190, 0, 1) 0%, rgba(238, 0, 41, 1) 50.6%, rgba(0, 0, 0, 1) 100%);
-	background : -ms-linear-gradient(-90deg, rgba(255, 190, 0, 1) 0%, rgba(238, 0, 41, 1) 50.6%, rgba(0, 0, 0, 1) 100%);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFBE00', endColorstr='#000000' ,GradientType=0)";
-	background : linear-gradient(180deg, rgba(255, 190, 0, 1) 0%, rgba(238, 0, 41, 1) 50.6%, rgba(0, 0, 0, 1) 100%);
-	border-style : Solid;
-	border-color : #000000;
-	border-color : rgba(0, 0, 0, 1);
-	border-width : 1px;
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFBE00',endColorstr='#000000' , GradientType=0);
+	background-image: url(how-to-clean.jpeg);
 }
 p
 {

@@ -1,0 +1,106 @@
+@charset "utf-8";
+	nav
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+.home-feature
+{
+	background-image : url(home-feature.png);
+	background-repeat : no-repeat;
+}
+.header-bkg
+{
+	background-image : url(header-bkg.png);
+	background-repeat : no-repeat;
+}
+.nav-bkg
+{
+	background : #7f00ee;
+	background : rgb(123, 0, 238);
+}
+.footer-bkg
+{
+	background-image : url(footer-bkg.png);
+	background-repeat : no-repeat;
+}
+.nav1
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+.nav2
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+.studio81-logo
+{
+	background-image : url(studio81-logo.png);
+	background-repeat : no-repeat;
+}
+h1
+{
+	font-family : ATC Onyx;
+	font-size : 32px;
+	line-height : 22.05px;
+	color : #1400ee;
+	color : #1400ee;
+}
+.NormalCharacterStyle
+{
+	font-family : Myriad Pro;
+	font-size : 36px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+body
+{
+	background-image: url(how-to-clean.jpeg);
+}
+p
+{
+	font-family : ATC Onyx;
+	font-size : 12px;
+	line-height : 20px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.main-text
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+footer
+{
+	font-family : ATC Onyx;
+	font-size : 9px;
+	line-height : 20px;
+	color : #ECECEC;
+	color : rgb(236, 236, 236);
+}
+.nav3
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}

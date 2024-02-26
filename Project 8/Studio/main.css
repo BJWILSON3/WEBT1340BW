@@ -9,8 +9,8 @@ nav {
 	padding: 10px 10px 10px 0px;
 	margin: 0px auto 0px auto;
 	float: left;
-
 }
+
 header {
 	width: 780px;
 	min-height: 350px;
@@ -21,6 +21,7 @@ header {
 	background-repeat: no-repeat;
 	float: left;
 }
+
 header img {
 	margin: 10px;
 }

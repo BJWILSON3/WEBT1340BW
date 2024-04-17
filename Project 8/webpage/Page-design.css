@@ -31,7 +31,7 @@ nav
 {
     background : #FFFFFF;
 	margin: 0px auto 0px auto;
-	padding: 20px 20px 50px 20px;
+	padding: 50px 20px 80px 20px;
 }
 
 footer
@@ -40,5 +40,4 @@ footer
 	font-size : 25px;
 	color : #000000;
 	color : rgb(0, 0, 0);
-
 }

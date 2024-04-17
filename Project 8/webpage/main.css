@@ -37,15 +37,15 @@ nav ul li {
 
 h1 {
 	font-weight: normal;
-	margin: 0px 0px 0px 90px;
+	margin: 0px 0px 0px 100px;
 	height: fit-content;
 }
 
 footer {
-	width: 100%;
+	width:100%;
 	background-color: #F2F2F2;
 	border: 5px solid black;
 	text-align: center;
-	position: fixed;
+	position:fixed;
 	bottom: 0px;
 }
